@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545637616784.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95765F8D",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1545637616784,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1E30CB24",
+        "caption" : "river",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=river&cache_key=1E30CB24",
+        "displayedObservations" : 462,
+        "environment" : "",
+        "object" : "river",
+        "preview" : 0,
+        "totalObservations" : 462,
+        "variables" : 22
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

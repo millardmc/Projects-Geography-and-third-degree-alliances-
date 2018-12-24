@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545635573982.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2255003974",
+    "id" : "8A922726",
+    "lastKnownWriteTime" : 1545638979,
+    "last_content_update" : 1545638979080,
+    "path" : "C:/Users/ucsdnavyboy/Dropbox/github_private/Projects-Geography-and-third-degree-alliances-/R/transform_river.R",
+    "project_path" : "R/transform_river.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
